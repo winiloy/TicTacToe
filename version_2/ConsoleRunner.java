@@ -4,7 +4,7 @@
  * ‘place’ methods in Game.  Prompts the user for inputs and outputs the state
  * of the board to the console.
  *
- * @author INSERT YOUR NAME(S) HERE
+ * @author Wasimul Islam
  */
 
 import java.util.Scanner;
